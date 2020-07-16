@@ -1,0 +1,1 @@
+If your android phone is rooted, you can use this app to retrieve the Wifi passwords that are saved when you connect to a network.

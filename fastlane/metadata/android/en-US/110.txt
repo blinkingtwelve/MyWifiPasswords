@@ -1,0 +1,3 @@
+- Add Android 8+ compatibility
+- Clean up su handling
+- Update various bits of info to reflect forked status
