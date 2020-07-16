@@ -5,27 +5,18 @@
 
 ## About
 
-Have the wifi connected on your Android phone and want to share its password with your friend or enter it in your laptop? Don't know where to find that piece of paper? If your android phone is rooted, this app makes your life much easier!
+Copyright (C) 2018 Aario Shahbany
+Copyright (C) 2020 blinkingwelve & [contributing authors](https://github.com/blinkingtwelve/MyWifiPasswords/graphs/contributors).
 
-This app reads wpa_supplicant file (by default in `/data/misc/wifi/wpa_supplicant.conf`) and provides you a list of WIFI SSIDs and PSKs (passwords).
+If your android phone is rooted, you can use this app to retrieve the Wifi passwords that are saved when you connect to a network.
 
-This is specially useful when you have a guest at home or in office and you want to share the password with. Or when you're in a new hotel, just got the WIFI password from reception and want to share it with your companions. Or when you're in a party. Or... the possibilities are numerous. You don't have to open the wpa_supplicant file yourself and try to find the information you're looking for in it. MyWifiPasswords does this for you.
+This version of this program has been forked from the original and updated to support Android 8+.
+There is a pull request for it at the original repo, [right here](https://github.com/aario/MyWifiPasswords/pull/6).
 
-<img src='screenshots/screenshot-1.png?raw=true' style="max-width:250px;"> <img src='screenshots/screenshot-2.png?raw=true' style="max-width:250px;"> <img src='screenshots/screenshot-3.png?raw=true' style="max-width:250px;">
-
-## Features
-- Lists WIFI passwords
-- Searches within SSIDs
-- You can change the path for `wpa_supplicant.conf`
-- You can change the path for `WifiConfigStore.xml`
-- You can copy SSID or password to clipboard
+This program comes with ABSOLUTELY NO WARRANTY. It is free software, and you are welcome to redistribute it under certain conditions — see the
 
 ## Install
 
 THIS APP NEEDS ROOT
 
-You can download the app from releases tab or from F-Droid.
-
-## Donations
-
-MyWifiPasswords is open source. It takes a lot of time and effort to write a software. If you found MyWifiPasswords usefull, please consider making a donation by clicking [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJTM2GDGPEFHA).
+You can download the app from F-Droid, or build it yourself.
